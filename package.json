@@ -1,0 +1,27 @@
+{
+  "name": "node-fs-storage",
+  "version": "1.0.0",
+  "description": "Use Node File Storage in simple way to store the temp data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technicalheist/node-fs-storage.git"
+  },
+  "keywords": [
+    "node-fs-storage",
+    "node",
+    "localstorage",
+    "localstorage",
+    "fs",
+    "storage"
+  ],
+  "author": "Technical Heist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/technicalheist/node-fs-storage/issues"
+  },
+  "homepage": "https://github.com/technicalheist/node-fs-storage#readme"
+}
